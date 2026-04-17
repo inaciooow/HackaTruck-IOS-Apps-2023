@@ -26,7 +26,8 @@ Aplicativo com foco em organização de informações na área da saúde, desenv
 **Principais funcionalidades:**
 
 * Navegação entre telas
-* Organização de informações do usuário
+* Cadastro de atendimentos e lembretes
+* Visualização de histórico
 * Interface intuitiva e estruturada
 
 **Tecnologias:**
@@ -94,9 +95,32 @@ Aplicativo que consome uma API externa para exibir personagens do universo Harry
 
 ---
 
-## 📸 Demonstração
+## 📸 Demonstração dos Aplicativos
 
-> Recomenda-se adicionar prints das telas dos aplicativos na pasta `/assets` para melhor visualização dos projetos.
+### 🩺 MedSenior
+
+![Home](assets/medsenior-home.JPG)
+![Home 2](assets/medsenior-home2.JPG)
+![Cadastro](assets/medsenior-cadastro.JPG)
+![Cadastro 2](assets/medsenior-cadastro2.JPG)
+![Histórico](assets/medsenior-historico.JPG)
+![Detalhe](assets/medsenior-detalhe.JPG)
+![Detalhe 2](assets/medsenior-detalhe2.JPG)
+
+---
+
+### 🗺️ Maps App
+
+![Mapa Geral](assets/maps-overview.png)
+![Annotation](assets/maps-annotation.png)
+![Detalhe](assets/maps-detail.png)
+
+---
+
+### ⚡ Harry Potter App
+
+![Lista de Personagens](assets/harry-list.png)
+![Detalhe do Personagem](assets/harry-detail.png)
 
 ---
 
