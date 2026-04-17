@@ -99,13 +99,9 @@ Aplicativo desenvolvido para fins de aprendizado durante o HackaTruck, com foco 
 
 ### 🩺 MedSenior
 
-![Home](assets/medsenior-home.JPG)
 ![Home 2](assets/medsenior-home2.JPG)
-![Cadastro](assets/medsenior-cadastro.JPG)
 ![Cadastro 2](assets/medsenior-cadastro2.JPG)
 ![Histórico](assets/medsenior-historico.JPG)
-![Detalhe](assets/medsenior-detalhe.JPG)
-![Detalhe 2](assets/medsenior-detalhe2.JPG)
 
 ---
 
