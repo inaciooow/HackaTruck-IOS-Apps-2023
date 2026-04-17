@@ -21,7 +21,7 @@ O HackaTruck é um projeto educacional que percorre universidades do Brasil prom
 
 ### 🩺 MedSenior App
 
-Aplicativo desenvolvido como **projeto final apresentado durante o HackaTruck MakerSpace (IBM)**, com foco na organização de informações na área da saúde e construção de uma interface funcional utilizando SwiftUI.
+Aplicativo desenvolvido como **projeto final apresentado durante o HackaTruck MakerSpace (Instituto Eldorado & IBM)**, com foco na organização de informações na área da saúde e construção de uma interface funcional utilizando SwiftUI.
 
 **Principais funcionalidades:**
 
