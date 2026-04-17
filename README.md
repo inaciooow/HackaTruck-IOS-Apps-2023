@@ -21,7 +21,7 @@ O HackaTruck é um projeto educacional que percorre universidades do Brasil prom
 
 ### 🩺 MedSenior App
 
-Aplicativo com foco em organização de informações na área da saúde, desenvolvido com interface moderna utilizando SwiftUI.
+Aplicativo desenvolvido como **projeto final apresentado durante o HackaTruck MakerSpace (IBM)**, com foco na organização de informações na área da saúde e construção de uma interface funcional utilizando SwiftUI.
 
 **Principais funcionalidades:**
 
@@ -42,7 +42,7 @@ Aplicativo com foco em organização de informações na área da saúde, desenv
 
 ### 🗺️ Maps City App
 
-Aplicativo que utiliza o framework MapKit para exibição de cidades com interação no mapa.
+Aplicativo desenvolvido como parte das atividades práticas do HackaTruck, com o objetivo de **explorar o uso do MapKit e interação com mapas em aplicações iOS**.
 
 **Principais funcionalidades:**
 
@@ -63,7 +63,7 @@ Aplicativo que utiliza o framework MapKit para exibição de cidades com intera�
 
 ### ⚡ Harry Potter Characters App
 
-Aplicativo que consome uma API externa para exibir personagens do universo Harry Potter.
+Aplicativo desenvolvido para fins de aprendizado durante o HackaTruck, com foco em **consumo de API REST, manipulação de dados e exibição dinâmica de informações em aplicações iOS**.
 
 **Principais funcionalidades:**
 
@@ -129,7 +129,7 @@ Aplicativo que consome uma API externa para exibir personagens do universo Harry
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/HackaTruck-IOS-Apps-2023.git
+git clone https://github.com/inaciooow/HackaTruck-IOS-Apps-2023.git
 ```
 
 2. Abra o projeto desejado no Xcode:
